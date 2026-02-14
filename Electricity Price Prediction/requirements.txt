@@ -1,0 +1,8 @@
+pandas
+altair
+seaborn
+matplotlib
+pmdarima
+statsmodels
+lightgbm
+prophet
